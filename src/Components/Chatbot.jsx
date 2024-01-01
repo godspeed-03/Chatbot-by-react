@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { AiOutlineCloseCircle } from "react-icons/ai";
 
 import img from "../assets/sciastra.webp";
-import img2 from "../assets/download.png";
+import img2 from "../assets/user.png";
 import questions from "../Utils/Questions";
 
 const Chat = () => {
