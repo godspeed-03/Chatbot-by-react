@@ -5,16 +5,9 @@
 This project is a chatbot built using React and Tailwind CSS. It allows users to interact with a chat interface and provides a simple and engaging conversational experience.
 
 ## Table of Contents
+- [Preview](#preview)
 - [Installation](#installation)
 - [Development](#development)
-- [Linting](#linting)
-- [Preview](#preview)
-- [Project Structure](#project-structure)
-- [Chat Component](#chat-component)
-- [Homepage Component](#homepage-component)
-- [Dependencies](#dependencies)
-- [Dev Dependencies](#dev-dependencies)
-- [Contact](#contact)
 
 ## Preview
 
