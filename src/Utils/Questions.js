@@ -12,7 +12,7 @@
 
     {
       text: "What is your primary goal for using SciAstra?",
-      options: ["IIT JEE", "NEET", "IISc/IISERs", "Other (please specify)"],
+      options: ["IIT JEE", "NEET", "IISc/IISERs", "Other"],
     },
     {
       text: "Are you preparing for board exams alongside competitive exams?",
@@ -63,7 +63,7 @@
         "Recommendations",
         "Online reviews",
         "Features offered",
-        "Other (please specify)",
+        "Other",
       ],
     },
     {
@@ -72,7 +72,7 @@
         "IISc Bengaluru",
         "IIT Madras",
         "NISER Bhubaneswar & CEBS Mumbai",
-        "Other (please specify)",
+        "Other",
       ],
     },
     {
@@ -85,7 +85,7 @@
         "Time management",
         "Understanding concepts",
         "Motivation",
-        "Other (please specify)",
+        "Other",
       ],
     },
     {
@@ -94,7 +94,7 @@
         "Online ads",
         "Social media",
         "Friends/family",
-        "Other (please specify)",
+        "Other",
       ],
     },
     {
