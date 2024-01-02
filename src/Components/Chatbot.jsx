@@ -103,7 +103,7 @@ const Chat = () => {
     <div className="fixed bottom-4 right-4">
       {isActive ? (
         <div
-          className="border rounded p-4 max-w-96 overflow-auto h-[70vh] "
+          className="border bg-white rounded p-4 max-w-96 overflow-auto h-[70vh] "
           ref={chatRef}
         >
           <div className="mb-2 top-0 left-0 bg-gradient-to-r from-[#234eb0] to-[#b656e2] text-white rounded-md p-4 flex items-center justify-center ">
@@ -112,7 +112,7 @@ const Chat = () => {
           </div>
 
           <div
-            className={` absolute bottom-0 -left-1 z-10 text-red-500  ${
+            className={` absolute bottom-1 left-1 z-10 text-red-500  ${
               isActive ? "" : ""
             }`}
             onClick={() => {
